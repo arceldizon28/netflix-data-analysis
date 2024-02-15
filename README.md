@@ -18,3 +18,4 @@ Static Visualization (For interactive dashboard, check visualization folder for 
 ## To do:
 - normalize and create relational tables for the attributes.
 - load to local database
+- update dashboard
